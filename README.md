@@ -9,6 +9,7 @@ And remember - your time is priceless!
 First step - install dependencies:
 
 ~/ npm i
+
 ~/ npm i gulp-cli -g
 
 While writing code make sure, to have SASS watcher is on, for immediate effect:
