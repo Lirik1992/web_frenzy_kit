@@ -1,0 +1,21 @@
+{
+  "name": "cooking_frenzy_landing",
+  "version": "1.0.0",
+  "description": "landing page for cooking frenzy",
+  "main": "main.js",
+  "repository": "https://github.com/Lirik1992/web_frenzy_kit.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w scss/ -o app/styles/ --recursive",
+    "gulp": "node ./node_modules/gulp/bin/gulp.js"
+  },
+  "author": "Dmitry Likharev",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {}
+}
