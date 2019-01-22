@@ -8,16 +8,16 @@ And remember - your time is priceless!
 
 First step - install dependencies:
 
->> npm i
->> npm i gulp-cli -g
+>>> npm i
+>>> npm i gulp-cli -g
 
 While writing code make sure, to have SASS watcher is on, for immediate effect:
 
->> npm run sass
+>>> npm run sass
 
 To build your web project run following command:
 
->> npm run gulp
+>>> npm run gulp
 
 ### What is next?
 
